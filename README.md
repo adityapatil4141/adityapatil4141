@@ -1,5 +1,4 @@
-<img src="![aids](https://github.com/adityapatil4141/adityapatil4141/assets/116018394/c50bfada-59ca-4785-946d-146c7e584763)
-"
+<img src="https://media.licdn.com/dms/image/D4D12AQFhajOZKq6R7A/article-cover_image-shrink_720_1280/0/1690805972491?e=2147483647&v=beta&t=2Lfj46ELtGZZGpJPlf8KbtnREo8bK9BcqhU58Tgn-Wo"
 alt="MasterHead" style="width: 100%; height: 500px;">
 
 <h1 align="center">Hello 👋, I'm Aditya</h1>
