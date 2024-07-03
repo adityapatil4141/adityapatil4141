@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4m9rKiCyplk3IUPpii0s-HUQnY9fG6rPnVYm2vwKOkSnitZJ9xKCN6BU-l6w7C2bAfZg&usqp=CAU"
+<img src="https://lh3.googleusercontent.com/GPEgTGtxfGAlk2Wrr2Vn5lu59qSoOfdlWAgjLeJtoELTdkjoKKQ6f5GNxvPpbW6dLvzdh1Ewu0TEmOUSD9jASyb82ibiH6YPKsUEmLQbmrOTbe1G9Qha2Yc8Epr7FAC8-9LFEqRJO8JeqTeNA9_YimU"
 alt="MasterHead" style="width: 100%; height: 500px;">
 
 <h1 align="center">Hello 👋, I'm Aditya</h1>
