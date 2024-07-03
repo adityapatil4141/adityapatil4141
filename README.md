@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D12AQFhajOZKq6R7A/article-cover_image-shrink_720_1280/0/1690805972491?e=2147483647&v=beta&t=2Lfj46ELtGZZGpJPlf8KbtnREo8bK9BcqhU58Tgn-Wo"
+<img src="[https://media.licdn.com/dms/image/D4D12AQFhajOZKq6R7A/article-cover_image-shrink_720_1280/0/1690805972491?e=2147483647&v=beta&t=2Lfj46ELtGZZGpJPlf8KbtnREo8bK9BcqhU58Tgn-Wo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4m9rKiCyplk3IUPpii0s-HUQnY9fG6rPnVYm2vwKOkSnitZJ9xKCN6BU-l6w7C2bAfZg&usqp=CAU)"
 alt="MasterHead" style="width: 100%; height: 500px;">
 
 <h1 align="center">Hello 👋, I'm Aditya</h1>
