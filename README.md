@@ -1,4 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fsymbiotic-relationship-between-ai-ml-dl-ds-aritra-pain&psig=AOvVaw3XLi87IYCP8masD8-MFNr8&ust=1720078752106000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDM7-uuiocDFQAAAAAdAAAAABAE" alt="MasterHead" style="width: 100%; height: 500px;">
+![aids](https://github.com/adityapatil4141/adityapatil4141/assets/116018394/74d9c3ad-3416-47db-80c5-6cb79b788fe6)<img src="![aids](https://github.com/adityapatil4141/adityapatil4141/assets/116018394/67868d5d-8fb5-46fb-b74a-2f4e821abc35)
+" alt="MasterHead" style="width: 100%; height: 500px;">
 
 <h1 align="center">Hello 👋, I'm Aditya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapatil4141&label=Profile%20views&color=0e75b6&style=flat" alt="adityapatil4141" /> </p>
