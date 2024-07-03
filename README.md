@@ -1,4 +1,4 @@
-<img src="https://appnivi.com/wp-content/uploads/2022/11/Shutterstock-j7o0hD2crY.jpg" alt="MasterHead" style="width: 100%; height: 500px;">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fsymbiotic-relationship-between-ai-ml-dl-ds-aritra-pain&psig=AOvVaw3XLi87IYCP8masD8-MFNr8&ust=1720078752106000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDM7-uuiocDFQAAAAAdAAAAABAE" alt="MasterHead" style="width: 100%; height: 500px;">
 
 <h1 align="center">Hello 👋, I'm Aditya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapatil4141&label=Profile%20views&color=0e75b6&style=flat" alt="adityapatil4141" /> </p>
